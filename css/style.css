@@ -123,7 +123,7 @@ li {
   line-height: 1;
   display: block;
   letter-spacing: .1em;
-  color: #f39ac7;
+  color: #5dc6f0;
 }
 
 .logo-text {
@@ -331,7 +331,7 @@ li {
 .rate:after {
   overflow: hidden;
   white-space: nowrap;
-  color: #f181b4;
+  color: #5dc6f0;
 }
 
 .rate1:after {
